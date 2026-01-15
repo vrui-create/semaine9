@@ -1,1 +1,10 @@
 https://www.youtube.com/watch?v=S3ZGQwTwn6Q&t=902s
+
+//Unity Shader Graph - Intersection Effect Tutorial
+https://www.youtube.com/watch?v=Uyw5yBFEoXo
+
+//Unity Shader Graph - Terrain Scanner Effect Tutorial
+https://www.youtube.com/watch?v=9DshpqhKDz0
+
+//Toon Shading with Shader Graph - Unity 6 URP Tutorial
+https://www.bing.com/videos/riverview/relatedvideo?q=unity+shader+graphg+aniome&&mid=B59DE5CB0D420FEEE01FB59DE5CB0D420FEEE01F&churl=https%3a%2f%2fwww.youtube.com%2fchannel%2fUCr30sIh0canbKZ2VfQPtLqA&FORM=VRDGAR
