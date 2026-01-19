@@ -17,3 +17,6 @@ https://www.bing.com/videos/riverview/relatedvideo?q=unity+shader+nom+de+la+meth
 
 //How to Make a Dissolve Shader Unity (Updated 2023)
 https://www.bing.com/videos/riverview/relatedvideo?q=unity+shader+nom+de+la+methode+pour+distordre&qs=n&sp=-1&lq=0&pq=unity+shader+nom+de+la+methode+pour+distordre&sc=12-45&sk=&cvid=B797B8E9C6504E5EB1862C4C667A2457&ajaxnorecss=1&sid=36EA5916B87E647E1AA84FF4B9926585&jsoncbid=0&ru=%2fsearch%3fq%3dunity%2520shader%2520nom%2520de%2520la%2520methode%2520pour%2520distordre%26qs%3dn%26form%3dQBRE%26sp%3d-1%26lq%3d0%26pq%3dunity%2520shader%2520nom%2520de%2520la%2520methode%2520pour%2520distordre%26sc%3d12-45%26sk%3d%26cvid%3dB797B8E9C6504E5EB1862C4C667A2457%26ajaxnorecss%3d1%26sid%3d36EA5916B87E647E1AA84FF4B9926585%26format%3dsnrjson%26jsoncbid%3d0&mmscn=vwrc&mid=9C508C4B11C2CEC9B4819C508C4B11C2CEC9B481&FORM=WRVORC&ntb=1&msockid=da6d478af22d11f08269d862a40d6983
+
+//Unity Game Effects - Ezreal Slash VFX Tutorial
+https://www.youtube.com/watch?v=QvIbNlWZSsQ
