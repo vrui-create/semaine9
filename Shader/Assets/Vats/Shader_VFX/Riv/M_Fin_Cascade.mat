@@ -59,7 +59,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Activation: 0
+    - _Activation: 1
     - _CellDensity: 3.02
     - _Lerp: 0.21
     - _QueueControl: 0

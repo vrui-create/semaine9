@@ -6802,7 +6802,7 @@ GameObject:
   - component: {fileID: 1359899457}
   - component: {fileID: 1359899459}
   m_Layer: 0
-  m_Name: Trail
+  m_Name: VFX_Trail
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
