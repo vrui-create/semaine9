@@ -52,7 +52,7 @@ Material:
     m_Ints: []
     m_Floats:
     - _Activation: 0
-    - _Intensity_Alpha: 0.08
+    - _Intensity_Alpha: 0.44
     - _QueueControl: 0
     - _QueueOffset: 0
     - _Scale_Noise_Gradiant: 9.5
