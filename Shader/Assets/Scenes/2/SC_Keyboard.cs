@@ -3,7 +3,7 @@ using UnityEngine.InputSystem;
 
 public class SC_Keyboard : MonoBehaviour
 {
-    [SerializeField]Renderer renderer;
+    [SerializeField]Renderer rendereSr;
     [SerializeField]InputActionReference ip_Action;
    
     private void Awake()
@@ -23,7 +23,7 @@ public class SC_Keyboard : MonoBehaviour
     void Update()
     {
         //materials ça prend que celui ......
-        renderer.materials[0].SetFloat("", 1);
+        rendereSr.materials[0].SetFloat("", 1);
 
         //renderer.sharedMaterials // permet de modifier tous les mesh qui posseder le même materiau, exemple d'utiliter: Tous les ennemis vous en reperer.
     }

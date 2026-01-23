@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: M_Soin
+  m_Shader: {fileID: -6465566751694194690, guid: 6a98b7f78d8804f4ab6aa73279135c54, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 2
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses:
+  - MOTIONVECTORS
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _SampleTexture2D_3d2a78aa25114684849b230cc35e1ff4_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 93e3190611cb2064e89e9d894cab7f1f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_6d85fb356f3443c3bff032c7f6f52903_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 2c79268b5cd935e43b3c9c883eb4bcf0, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_a9bfec3b3a854253ac7665028d8b1fd1_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: b7d0950777236d94c961879a7ee2df57, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_d10829c4ccb94cfdae285825852ff6c8_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 7ee5978e693525f4f85d9afeea01c07a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _Active_Scale_zone: 0
+    - _Etant_limite_alpha: 14.62
+    - _Intensity_Alpha: 3.53
+    - _QueueControl: 0
+    - _QueueOffset: 0
+    - _Sine_Auto: 1
+    m_Colors:
+    - _Scale_Texture: {r: 5, g: 5, b: 0, a: 0}
+    - _Speed_noise: {r: 0, g: -1, b: 0, a: 0}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1
+--- !u!114 &4599148616965473787
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 10
