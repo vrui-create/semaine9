@@ -51,7 +51,7 @@ Material:
     m_Colors:
     - _Color_Emissive: {r: 5.5076222, g: 19.253216, b: 22.894432, a: 1}
     - _Color_Emissive_01: {r: 0, g: 0, b: 0, a: 1}
-    - _Color_Emissive_02: {r: 5.8631864, g: 72.9551, b: 82.86638, a: 0}
+    - _Color_Emissive_02: {r: 0, g: 2.564692, b: 111.620575, a: 0}
     - _Move_Vector: {r: 0, g: -2.07, b: 0, a: 0}
     - _Scale: {r: 8, g: 0.08, b: 0, a: 0}
   m_BuildTextureStacks: []

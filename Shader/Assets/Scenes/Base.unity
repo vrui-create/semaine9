@@ -13945,7 +13945,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1578964940572579884, guid: 7025d6c3b859a6f49bc1c414fb17885c, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 29.54171
+      value: 7.22
       objectReference: {fileID: 0}
     - target: {fileID: 1578964940572579884, guid: 7025d6c3b859a6f49bc1c414fb17885c, type: 3}
       propertyPath: m_LocalPosition.y
@@ -13953,7 +13953,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1578964940572579884, guid: 7025d6c3b859a6f49bc1c414fb17885c, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 29.87059
+      value: 25.05
       objectReference: {fileID: 0}
     - target: {fileID: 1578964940572579884, guid: 7025d6c3b859a6f49bc1c414fb17885c, type: 3}
       propertyPath: m_LocalRotation.w
@@ -13983,6 +13983,26 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6833279256719732330, guid: 7025d6c3b859a6f49bc1c414fb17885c, type: 3}
+      propertyPath: CollisionModule.m_Planes.Array.size
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 6833279256719732330, guid: 7025d6c3b859a6f49bc1c414fb17885c, type: 3}
+      propertyPath: 'CollisionModule.m_Planes.Array.data[0]'
+      value: 
+      objectReference: {fileID: 1176883849}
+    - target: {fileID: 6833279256719732330, guid: 7025d6c3b859a6f49bc1c414fb17885c, type: 3}
+      propertyPath: 'CollisionModule.m_Planes.Array.data[1]'
+      value: 
+      objectReference: {fileID: 854388622}
+    - target: {fileID: 6833279256719732330, guid: 7025d6c3b859a6f49bc1c414fb17885c, type: 3}
+      propertyPath: 'CollisionModule.m_Planes.Array.data[2]'
+      value: 
+      objectReference: {fileID: 795174072}
+    - target: {fileID: 6833279256719732330, guid: 7025d6c3b859a6f49bc1c414fb17885c, type: 3}
+      propertyPath: 'CollisionModule.m_Planes.Array.data[3]'
+      value: 
+      objectReference: {fileID: 1126654981}
     - target: {fileID: 7411346759450075183, guid: 7025d6c3b859a6f49bc1c414fb17885c, type: 3}
       propertyPath: m_Name
       value: Particle System
